@@ -7,7 +7,9 @@ La arquitectura sugerida para el curso de Fundamentos de ciencia de datos es la 
 1. Se sugiere crear un github solo para el curso, nombre por definir FunCienciaDatos
 2. En este git se debe definir varios respositorios, uno con el nombre del curso, el año y semestre
    
-  -- FunCienciaDatosWebSite_2024_I: Contiene información del sitio web del curso.
+  -- FunCienciaDatosWebSite_2024_I: Contiene información del sitio web del curso. Revisar los permiso y enlaces del sitio web
+  y evaluar si con un  git privado se puede desplegar 
+  
    
    |-----  Archivos necesarios en just the docs 
    
