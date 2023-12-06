@@ -1,6 +1,9 @@
 modificaion de archivo test
 segunda moficacon del archivo 
+
 # FundamentosCienciaDatos_dev
+
+
 
 Directorio para pruebas del curso, Fundamentos Ciencia Datos desarrollo. 
 
