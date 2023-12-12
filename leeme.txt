@@ -1,0 +1,9 @@
+# enviorment
+conda activate data_8 
+
+Este directorio contiene información para un hello word data 8. Con implmentacion del modulo de 
+datascience y el modulo de sincronizacion automatica desde el git hub.
+
+Basado en el curso de Data 8 de la universidad de Berckley. 
+
+Estado en construcción 
